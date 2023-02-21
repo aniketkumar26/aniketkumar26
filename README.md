@@ -1,4 +1,4 @@
-![logo](https://github.com/aniketkumar26/Aniket-kumar/blob/main/ANIKET%20KUMAR%20(1).jpg)
+![logo](https://github.com/aniketkumar26/aniketkumar26/blob/main/images/aniket.png)
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">A passionate frontend developer and Backend Engineer from India (Looking for SDE internship)</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/aniketkumar26/Aniket-kumar/blob/main/wp8903914-mern-stack-wallpapers.jpg"
@@ -7,22 +7,27 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Stack-Ai( React Project), Slack Clone**
+- 🔭 I’m currently working on **Stack-Ai( React Project), Flowdock( Instant messaging program )**
 
-- 🌱 I’m currently learning **Frontend- ReactJS ,Tailwind CSS,Redux Toolkit Backend- NodeJs(ExpressJs),mongoDb,mySql**
+- 🌱 I’m Currently Learning
+-  Frontend developemnt - **ReactJS ,Tailwind CSS,Redux Toolkit**
+- Backend Development  - **NodeJs  Framework - Express.js**
+- Database -SQL -**MySQL** NOSQL-**MongoDB**
+- Cross Platform App Development -**Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@kumar.aniketkumar89](https://medium.com/@kumar.aniketkumar89)
 
-- 💬 Ask me about **React ,Nodejs ,Flutter**
+- 💬 Ask me about **React.js ,Nodejs ,Flutter**
 
 - 📫 How to reach me **kumar.aniketkumar89@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
+### PROJECTS
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
 Stack_AI | React.js,TailWindCSS, ReduxToolkit |NodeJS(Express.js),MongoDB | [link](https://jsm-dall-e.com/) | [link](https://github.com/aniketkumar26/Stack-Ai)
-Spotify Clone| React js, redux , BootStrap | Node.js, Deta, Shell | Soon will update working now| 
+FlowDock| React js, redux , BootStrap | Node.js, Deta, Shell | Soon will update working now| 
  |  | |  | 
  |  |  |  | 
 
