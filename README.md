@@ -1,3 +1,4 @@
+![logo](https://github.com/aniketkumar26/Aniket-kumar/blob/main/ANIKET%20KUMAR%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">A passionate frontend developer and Backend Engineer from India (Looking for SDE internship)</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/aniketkumar26/Aniket-kumar/blob/main/wp8903914-mern-stack-wallpapers.jpg"
