@@ -19,6 +19,14 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+Web App | Front End | Back End | Live Demo | Repo
+------- | --------- | -------- | :-------: | :--:
+Stack_AI | React.js,TailWindCSS, ReduxToolkit |NodeJS(Express.js),MongoDB | [link](https://jsm-dall-e.com/) | [link](https://github.com/aniketkumar26/Stack-Ai)
+Spotify Clone| React js, redux , BootStrap | Node.js, Deta, Shell | Soon will update working now| 
+ |  | |  | 
+ |  |  |  | 
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
