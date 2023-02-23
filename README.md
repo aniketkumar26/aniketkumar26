@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kumar.aniketkumar89@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- “Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them.” -Steve Jobs
 ### PROJECTS
 
 Web App | Front End | Back End | Live Demo | Repo
